@@ -1,12 +1,10 @@
 ---
-title: Basics
+title: 'Multiboot sur Ubports'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+# Multiboot sur Ubports
 
-# Basics
-
-Discover the **basic** principles
+Découvrez le **Multiboot** pour Ubuntu Touch et Android

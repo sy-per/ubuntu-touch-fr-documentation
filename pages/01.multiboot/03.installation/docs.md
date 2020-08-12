@@ -12,3 +12,5 @@ Avant de procéder à l'installation il vous faudra un appareil compatible Ubpor
 ## Installer Ubuntu Touch (Ubports)
 
 Pour installer Ubports il vous suffit de suivre [ce tutoriel](http://docs.ubports.com/fr/latest/userguide/install.html).
+
+## Mettre TWRP à la place du recovery Ubports

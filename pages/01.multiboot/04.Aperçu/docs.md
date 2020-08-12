@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Aperçu
 taxonomy:
     category:
         - docs

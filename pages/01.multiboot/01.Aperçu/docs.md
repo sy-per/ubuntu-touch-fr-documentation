@@ -1,5 +1,6 @@
 ---
 title: Aperçu
+published: false
 taxonomy:
     category:
         - docs

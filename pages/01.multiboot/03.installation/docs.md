@@ -13,4 +13,8 @@ Avant de procéder à l'installation il vous faudra un appareil compatible Ubpor
 
 Pour installer Ubports il vous suffit de suivre [ce tutoriel](http://docs.ubports.com/fr/latest/userguide/install.html).
 
-## Mettre TWRP à la place du recovery Ubports
+## Mettre TWRP  Multirom à la place du recovery Ubports
+
+## Installer les fichiers necessaire au fonctionnement de Multirom
+
+## Installer Android 14.1 ou ultérieur (Cyanogen rom recommandé)

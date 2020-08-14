@@ -31,5 +31,7 @@ Taper dans un terminal dans le dossier du fichier téléchargé ci-dessus:
 Redemarrer l'appareil dans le mode **recovery** (Volume + & bouton d'allumage)
 
 
+## Installer Android 14.1 ou ultérieur (Cyanogen rom recommandé) en seconde rom
 
-## Installer Android 14.1 ou ultérieur (Cyanogen rom recommandé)
+**_Attention il faut absolument que Ubuntu Touch soit en première rom et android en seconde rom !!!_
+**

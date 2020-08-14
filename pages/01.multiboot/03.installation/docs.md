@@ -15,7 +15,11 @@ Pour installer Ubports il vous suffit de suivre [ce tutoriel](http://docs.ubport
 
 ## Mettre TWRP  Multirom à la place du recovery Ubports
 
-Redemarrer l'appareil en mode fastboot (Volume - & bouton allumage).
+Télécharger le recovery Mutirom compatible avec votre appareil :
+
+* Oneplus 3T:
+
+Redemarrer l'appareil en mode **fastboot** (Volume - & bouton allumage).
 
 Taper dans un terminal: 
 

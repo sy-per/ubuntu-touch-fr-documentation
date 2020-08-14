@@ -15,6 +15,13 @@ Pour installer Ubports il vous suffit de suivre [ce tutoriel](http://docs.ubport
 
 ## Mettre TWRP  Multirom à la place du recovery Ubports
 
+Redemarrer l'appareil en mode fastboot (Volume - & bouton allumage).
+
+Taper dans un terminal: 
+
+> fastboot flash recovery TWRP_Multirom.img
+
+
 ## Installer les fichiers necessaire au fonctionnement de Multirom
 
 ## Installer Android 14.1 ou ultérieur (Cyanogen rom recommandé)
